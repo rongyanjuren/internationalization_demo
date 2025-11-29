@@ -1,7 +1,6 @@
 package com.shiyulong.controller;
 
 import com.shiyulong.common.Result;
-import com.shiyulong.common.exception.DemoException;
 import com.shiyulong.utils.I18nUtil;
 import lombok.RequiredArgsConstructor;
 import org.springframework.validation.annotation.Validated;
