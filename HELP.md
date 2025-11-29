@@ -1,4 +1,4 @@
-# springboot的国际化方案&#x20;
+# springboot的国际化方案
 
 不多BB，直接上代码[代码地址](https://github.com/rongyanjuren/internationalization_demo)
 
